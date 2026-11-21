@@ -1,0 +1,4 @@
+// Living Dungeon Director v0.1.1 — Output
+// Schedules ONE optional prompt for the *next* turn; never rewrites narration.
+const modifier = (text) => { return LDD.Output(text); };
+modifier(text);
