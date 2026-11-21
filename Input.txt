@@ -1,0 +1,3 @@
+// Living Dungeon Director v0.1.1 — Input
+const modifier = (text) => { return LDD.Input(text); };
+modifier(text);
