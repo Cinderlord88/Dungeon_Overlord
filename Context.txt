@@ -1,0 +1,4 @@
+// Living Dungeon Director v0.1.1 — Context
+// Uses frontMemory set ahead of context assembly, including cache-efficient models.
+const modifier = (text) => { return LDD.Context(text); };
+modifier(text);
