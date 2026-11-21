@@ -1,4 +1,4 @@
-# 👑 DUNGEON OVERLORD
+# 👑 DUNGEON OVERLORD (V2.0)
 ### Your Dungeon. Your Monsters. Your Empire. Your Rules.
 
 **The heroes call you a villain. Your minions call you boss. The goblins are demanding a raise.**
